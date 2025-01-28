@@ -79,9 +79,9 @@ Proficient in **Microsoft Excel**, **Power BI**, and **Tableau**, with strong pr
 
 ## Contact
 
-- **Email**: [sssingh696787@gmail.com](mailto:sssingh696787@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
+- **Email**: sssingh696787@gmail.com
+- **LinkedIn**: www.linkedin.com/in/sunny-shekhar-singh-b77205192
+- **GitHub**: [](#)
 - **Phone**: +91 9902103938
 
 ---
